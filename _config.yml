@@ -31,5 +31,3 @@ comments:
 #  isso_domain: ""              # see https://isso-comments.de
 
 plugins:
- - jekyll-feed
- theme: minima
